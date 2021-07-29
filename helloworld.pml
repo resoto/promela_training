@@ -1,4 +1,4 @@
-/*ココにコメントを記述*/
+/*コメント*/
 init{
   printf("Hello World!\n")
 }
